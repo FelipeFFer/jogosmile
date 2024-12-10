@@ -1,0 +1,57 @@
+.invisivel{
+    display:none;
+  }
+  .visivel{
+    display:inline;
+  }
+  .inicial {
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(168, 165, 161);
+    width: 150px;
+    height: 200px;
+    border: 15px solid green;
+    padding: 10px;
+    margin: 20px;
+  }
+  .acertou {
+    text-align: center;
+    color: rgb(173, 121, 9);
+    background-color: rgb(30, 255, 0);
+    width: 150px;
+    height: 230px;
+    border: 15px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 20px;
+  }
+  .errou {
+    text-align: center;
+    color: white;
+    background-color: red;
+    width: 150px;
+    height: 230px;
+    border: 15px solid black;
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  body {
+    background-color: rgb(192, 145, 102);
+    text-align: center;
+  }
+  h1 {
+    font-size: 80px;
+  }
+  p {
+    font-size: 40px;
+  }
+  button{
+    font-size: 40px;
+  }
+  #joganovamente{
+    width: auto;
+  }
+  #reiniciar{
+    width: auto;
+  }
+  
